@@ -11,3 +11,4 @@ git config -h
 git status
 git add archibo1.txt o [.txt "solo los txt"] o [. "todos"]
 git add archibo1.txt archivo2.txt "varios"
+git commit -m "agrege una linea ultima"
