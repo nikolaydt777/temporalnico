@@ -12,3 +12,6 @@ git status
 git add archibo1.txt o [.txt "solo los txt"] o [. "todos"]
 git add archibo1.txt archivo2.txt "varios"
 git commit -m "agrege una linea ultima"
+git rm archivoxx.txt "para borrar y add"
+git restore --staged archivoxxx.txt "restaurar"
+
