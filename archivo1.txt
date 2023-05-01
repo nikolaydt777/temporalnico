@@ -28,8 +28,9 @@ git log (historial)
 git log --oneline (historila con referencia y simplificado)
 
 % Ramas o branch
-git branch
+git branch "en que rama estoy"
 git checkout -b features/nombre de la funcionalidad
 git checkout -b SS4515
 git checkout -b ramab
+git checkout main "cambio de rama"
 
