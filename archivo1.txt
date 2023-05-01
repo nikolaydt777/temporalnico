@@ -1,5 +1,7 @@
 ! Hola Nico !
 
+PARA SALIR DE MENUS PRESIONA "q"
+
 Instrucciones para laborar con git
 git - -version
 git config --global user. name "Nicolas Schurmann"
@@ -20,3 +22,7 @@ Podemos hacer esto ultimo con git mv archivo1.txt archibo1.txtx
 
 % Vamos a simplifaicar estatus
 git status -s "Muestra con letras al inicio"
+git diff "mustra el texto de lo que agregamos"
+git diff --staged
+git log (historial)
+git log --oneline (historila con referencia y simplificado)
