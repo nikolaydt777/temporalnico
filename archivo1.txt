@@ -26,3 +26,5 @@ git diff "mustra el texto de lo que agregamos"
 git diff --staged
 git log (historial)
 git log --oneline (historila con referencia y simplificado)
+
+% Ramas o branch
