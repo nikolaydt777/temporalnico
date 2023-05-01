@@ -18,3 +18,5 @@ git restore --staged archivoxxx.txt "restaurar"
 git add archivo1.txt archibo1.txt [subir el renombrado por el anterior]
 Podemos hacer esto ultimo con git mv archivo1.txt archibo1.txtx
 
+% Vamos a simplifaicar estatus
+git status -s "Muestra con letras al inicio"
