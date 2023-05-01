@@ -1,0 +1,13 @@
+! Hola Nico !
+
+Instrucciones para laborar con git
+git - -version
+git config --global user. name "Nicolas Schurmann"
+git config --global user. email nicolas@gmail.com
+git config --global core.editor "code --wait"
+git config --global -e
+git config --global
+git config -h
+git status
+git add archibo1.txt o [.txt "solo los txt"] o [. "todos"]
+git add archibo1.txt archivo2.txt "varios"
