@@ -33,4 +33,6 @@ git checkout -b features/nombre de la funcionalidad
 git checkout -b SS4515
 git checkout -b ramab
 git checkout main "cambio de rama"
+git merge ramab "traer cambios de la rama ramab a la main"
+
 
